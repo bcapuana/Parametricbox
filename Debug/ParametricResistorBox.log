@@ -1,0 +1,9 @@
+﻿  ParametricResistorBox.cpp
+C:\Users\capua\AppData\Roaming\Autodesk\Autodesk Fusion 360\API\Scripts\ParametricResistorBox\ParametricResistorBox.cpp(31,31): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\capua\AppData\Roaming\Autodesk\Autodesk Fusion 360\API\Scripts\ParametricResistorBox\ParametricResistorBox.cpp(70,27): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\capua\AppData\Roaming\Autodesk\Autodesk Fusion 360\API\Scripts\ParametricResistorBox\ParametricResistorBox.cpp(73,27): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+ParametricResistorBox.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+     Creating library C:\Users\capua\AppData\Roaming\Autodesk\Autodesk Fusion 360\API\Scripts\ParametricResistorBox\Debug\ParametricResistorBox.lib and object C:\Users\capua\AppData\Roaming\Autodesk\Autodesk Fusion 360\API\Scripts\ParametricResistorBox\Debug\ParametricResistorBox.exp
+  ParametricResistorBox.vcxproj -> C:\Users\capua\AppData\Roaming\Autodesk\Autodesk Fusion 360\API\Scripts\ParametricResistorBox\Debug\ParametricResistorBox.dll
+  C:\Users\capua\AppData\Roaming\Autodesk\Autodesk Fusion 360\API\Scripts\ParametricResistorBox\Debug\ParametricResistorBox.dll
+  1 File(s) copied
